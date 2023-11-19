@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elmojuh&repo=artacril&theme=neon&cache_seconds=1800&locale=en" />
 </a>
 
-<a href="https://github.com/elmojuh/elmosprofile">
+<a href="https://github.com/elmojuh/profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elmojuh&repo=profile&theme=neon&cache_seconds=1800&locale=en" />
 </a>
 
