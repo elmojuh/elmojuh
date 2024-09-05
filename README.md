@@ -1,7 +1,7 @@
 ### Hi!👋 I'm Elmo Júnior
 
 - 🔭 I’m currently working on front-end and back-end web
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently coding in projects typescript
 - 👯 I’m looking to collaborate on web projects and data science
 - 💬 Ask me about anything
 - 📫 How to reach me: social midias and my web site [https://elmosprofile.vercel.app/](https://elmosprofile.vercel.app/)
